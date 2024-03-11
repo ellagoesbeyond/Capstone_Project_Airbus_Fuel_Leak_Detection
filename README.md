@@ -23,4 +23,4 @@ This project is for educational purposes only!
 
 ## Acknowledgments
 
-* Thank you to our mentor Miguel Acosta who provided valuable guidiance throughout the project
+Thank you to our mentor **Miguel Martin Acosta** who provided valuable guidance throughout the project
